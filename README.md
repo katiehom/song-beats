@@ -60,7 +60,7 @@ I learned about accessing JSON from an API properly and different ways to append
         <a target="_blank" href="https://github.com/katiehom/ben-folds-api">
           <img src="https://user-images.githubusercontent.com/52755177/180623304-8d54d69a-5bdb-4b47-b4de-86aa759a98d9.gif" 
                width="33.3%" alt="Ben Folds Songs"/>
-        </a>!
+        </a>
 
     </td>
     <td width="33.3%" valign="top">
