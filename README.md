@@ -50,7 +50,7 @@ I learned about accessing JSON from an API properly and different ways to append
         <br />
       <a target="_blank" href="https://github.com/katiehom/theoryrevolution">
             <img src="https://user-images.githubusercontent.com/52755177/180623254-aabc799d-839d-4643-8395-a124681663bf.gif" 
-                 width="100%"  alt="Theory Revolution"/>
+                 width="33.3"  alt="Theory Revolution"/>
       </a>
 
     </td>
@@ -59,7 +59,7 @@ I learned about accessing JSON from an API properly and different ways to append
       <br />
         <a target="_blank" href="https://github.com/katiehom/ben-folds-api">
           <img src="https://user-images.githubusercontent.com/52755177/180623304-8d54d69a-5bdb-4b47-b4de-86aa759a98d9.gif" 
-               width="100%" alt="Ben Folds Songs"/>
+               width="33.3%" alt="Ben Folds Songs"/>
         </a>!
 
     </td>
@@ -68,7 +68,7 @@ I learned about accessing JSON from an API properly and different ways to append
         <br />
         <a target="_blank" href="https://github.com/katiehom/katie-hom">
           <img src="https://user-images.githubusercontent.com/52755177/180623330-a37ef1d7-363a-4c60-a376-71236f0de8d6.gif" 
-               width="100%" alt="Portfolio"/>
+               width="33.3%" alt="Portfolio"/>
         </a>
     </td>
   </tr>
