@@ -1,20 +1,20 @@
-# SONG BEATS
+# Song Beats
 
 An app to help you find songs at your ideal tempo - 
 Song Beats can aid your music selection for running, aerobics, work soundtracks, marching band, choirs and any usage you can imagine! 
 
 <p align="center">
   <a href="https://songbeats.netlify.app/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/52755177/180620874-046f569b-c38d-499e-8829-994d57615383.gif" alt="Ben Folds Songs"/>
+    <img src="https://user-images.githubusercontent.com/52755177/180622264-8a125f3c-29fe-46a7-8696-4ffd6c0f8ee8.gif" alt="Song Beats"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/katiehom/ben-folds-api" target="_blank">
+  <a href="https://github.com/katiehom/songbeats" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ee3b65&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://songbeats.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ee3b65&style=plastic&logo=netlify&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ec3a50&style=plastic&logo=netlify&logo-color=white"/>
   </a>
 </p>
 
