@@ -11,10 +11,10 @@ Song Beats can aid your music selection for running, aerobics, work soundtracks,
 
 <p align="center">
   <a href="https://github.com/katiehom/songbeats" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=c90c64&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://songbeats.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1f1591&style=plastic&logo=netlify&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
 </p>
 
