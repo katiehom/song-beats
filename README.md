@@ -39,19 +39,19 @@ I learned about accessing JSON from an API properly and different ways to append
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/katiehom/theoryrevolution">Theory Revolution</a>
-        <br />
-      <a target="_blank" href="https://github.com/katiehom/theoryrevolution">
-            <img src="https://user-images.githubusercontent.com/52755177/180623254-aabc799d-839d-4643-8395-a124681663bf.gif" width="100%" alt="Theory Revolution"/>
-      </a>
-    </td>
        <td width="33.3%" valign="top">
 <a target="_blank" href="https://github.com/katiehom/katie-hom">Portfolio</a>
         <br />
         <a target="_blank" href="https://github.com/katiehom/katie-hom">
           <img src="https://user-images.githubusercontent.com/52755177/180623739-fbf4f9ef-d1e2-4cb3-8717-0f139b4af221.gif" width="100%" alt="Portfolio"/>
         </a>
+    </td>
+        <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/katiehom/theoryrevolution">Theory Revolution</a>
+        <br />
+      <a target="_blank" href="https://github.com/katiehom/theoryrevolution">
+            <img src="https://user-images.githubusercontent.com/52755177/180623890-6179f79a-82f7-4336-bf2f-adaedaa1eb44.gif" width="100%" alt="Theory Revolution"/>
+      </a>
     </td>
     <td width="33.3%" valign="top">
 <a target="_blank" href="https://github.com/katiehom/ben-folds-api">Ben Folds Songs</a>
