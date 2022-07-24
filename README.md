@@ -10,7 +10,7 @@ SongBeats can aid your music selection for running, aerobics, work soundtracks, 
 </p>
 
 <p align="center">
-  <a href="https://github.com/katiehom/songbeats" target="_blank">
+  <a href="https://github.com/katiehom/song-beats" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://songbeats.netlify.app/" target="_blank">
@@ -23,12 +23,12 @@ SongBeats can aid your music selection for running, aerobics, work soundtracks, 
 
 **Tech used:** <strong>HTML, CSS, JavaScript, API</strong>
 
-SongBeats integrates the GetSongBPM API for quick compilation of the top 100 searched songs at your entered beats per minute (BPM) or tempo. The user enters a tempo (between 40 and 220 BPM) into the input and clicks search which makes a request to the API for the top 100 songs meeting that criteria including song data such as Title, Artist, Year, Album and Genre which is added to the DOM using JavaScript.
+SongBeats integrates the GetSongBPM API for quick compilation of the top 100 searched songs at your entered beats per minute (BPM) or tempo. The user enters a tempo (between 40 and 220 BPM) into the input and clicks search which makes a request to the API for the top 100 songs meeting that criteria including song data such as Title, Artist, Year, Album and Genre which are added to the DOM using JavaScript.
 
 ## Optimizations
 Future iterations might include sorting by category, searching by song title, finding optimized song suggestions at the same tempo of a specific song, and searching within a specific genre, year, etc.
 
-In the beginning, I was retrieving song titles and artists and decided to add in the other categories of data for better identification. Also, the first iteration included adding new information as list items and later as more information was added to change the JavaScript to create new elements in a table and add them to the site.
+In the beginning, I was retrieving only song titles and artists and decided to add in the other categories of data for better identification. Also, the first iteration included adding new information as list items and later as more information was added to change the JavaScript to create new elements in a table and add them to the site.
 
 ## Lessons Learned:
 
