@@ -57,7 +57,7 @@ I learned about accessing JSON from an API properly and different ways to append
 <a target="_blank" href="https://github.com/katiehom/ben-folds-api">Ben Folds Songs</a>
       <br />
         <a target="_blank" href="https://github.com/katiehom/ben-folds-api">
-          <img src="https://user-images.githubusercontent.com/52755177/186993842-df4e2174-12ae-442d-9394-7ea48b01e6ec.gif" width="100%" alt="Ben Folds Songs"/>
+          <img src="https://user-images.githubusercontent.com/52755177/186995784-efe50111-b278-425a-ba54-aac9779028d7.gif" width="100%" alt="Ben Folds Songs"/>
         </a>
     </td>
   </tr>
